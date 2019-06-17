@@ -1,2 +1,5 @@
 # Calculator
-Simple mobile applicationNeeds node modules
+
+Simple mobile application. Made in React.
+
+Needs node modules
